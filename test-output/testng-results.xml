@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="275000" started-at="2013-11-29T10:14:20Z" finished-at="2013-11-29T10:18:55Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="275000" started-at="2013-11-29T10:14:20Z" finished-at="2013-11-29T10:18:55Z">
+      <class name="TestSuite.VerifyingWidgets">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:TestSuite.VerifyingWidgets@1974028]" name="Setup" is-config="true" duration-ms="5355" started-at="2013-11-29T15:44:20Z" finished-at="2013-11-29T15:44:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="checkallwidgets()[pri:0, instance:TestSuite.VerifyingWidgets@1974028]" name="checkallwidgets" duration-ms="269633" started-at="2013-11-29T15:44:26Z" finished-at="2013-11-29T15:48:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkallwidgets -->
+      </class> <!-- TestSuite.VerifyingWidgets -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
